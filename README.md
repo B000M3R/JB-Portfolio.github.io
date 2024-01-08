@@ -34,8 +34,6 @@ Welcome to my GitHub portfolio! I've created this space to showcase the range of
 <h2 style="color:blue">Summary</h2>
 The Request Catalogue Optimisation Project aimed to address the request form inefficiencies and outdated request management process of our existing service request catalogue within ServiceNow. Our mission was to revitalise the user experience by streamlining, modernising, and redesigning the forms within the new ServiceNow platform. By enhancing the look and feel of the request forms and improving the fulfillment process, we sought to reduce lead times and establish a strong foundation for the request catalogues future. The project's success was measured by its contribution to a more agile and responsive service management environment, reflecting our commitment to continuous improvement and excellence in IT service delivery.
 
-![Alt text for your image](Req_Cat_Delivery_Sheet.png)
-
 ### Situation
 Our legacy ServiceNow platform, containing over 800 service request forms, had become bloated and inefficient due to over-customisation and lack of governance, leading to cumbersome request management processes and extended lead times. The need for a complete overhaul was evident as we prepared to transition away from the outdated and old ServiceNow system. The initial phase focused on baselining the existing setup and targeting the top 100 forms for immediate attention and redesign. This phase was essential in managing the scope effectively, meeting tight deadlines, and ensuring a smooth transition to a more streamlined and effective service request process in the new ServiceNow environment.
 
