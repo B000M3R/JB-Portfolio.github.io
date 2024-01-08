@@ -23,7 +23,7 @@ Welcome to my GitHub portfolio! I've created this space to showcase the range of
 ### Project Presentation Approach & Confidentiality
  I have structured my project overviews using the Situation, Problem, Action, and Result (SPAR) framework, ensuring clarity and conciseness in presenting my work. Please note that any sensitive information has been appropriately redacted or omitted for confidentiality.
 
-## Table of Contents
+## Projects Table of Contents
 - [Project 1: Service Request Catalogue Optimisation](#project-1-service-request-catalogue-optimisation)
 - [Project 2: Second Project Title](#project-2-second-project-title)
 - [Project 3: Third Project Title](#project-3-third-project-title)
