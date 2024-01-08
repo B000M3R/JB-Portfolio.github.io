@@ -31,7 +31,7 @@ Welcome to my GitHub portfolio! I've created this space to showcase the range of
 - [Project 5: Fifth Project Title](#project-5-fifth-project-title)
 
 ### Project 1: Service Request Catalogue Optimisation
-<h3 style="color:blue">Summary</h3>
+<h2 style="color:blue">Summary</h2>
 The Request Catalogue Optimisation Project aimed to address the request form inefficiencies and outdated request management process of our existing service request catalogue within ServiceNow. Our mission was to revitalise the user experience by streamlining, modernising, and redesigning the forms within the new ServiceNow platform. By enhancing the look and feel of the request forms and improving the fulfillment process, we sought to reduce lead times and establish a strong foundation for the request catalogues future. The project's success was measured by its contribution to a more agile and responsive service management environment, reflecting our commitment to continuous improvement and excellence in IT service delivery.
 
 ![Alt text for your image](Req_Cat_Delivery_Sheet.png)
