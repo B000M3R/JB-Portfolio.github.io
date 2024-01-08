@@ -39,8 +39,6 @@ The Request Catalogue Optimisation Project aimed to address the request form ine
 ### Situation
 Our legacy ServiceNow platform, containing over 800 service request forms, had become bloated and inefficient due to over-customisation and lack of governance, leading to cumbersome request management processes and extended lead times. The need for a complete overhaul was evident as we prepared to transition away from the outdated and old ServiceNow system. The initial phase focused on baselining the existing setup and targeting the top 100 forms for immediate attention and redesign. This phase was essential in managing the scope effectively, meeting tight deadlines, and ensuring a smooth transition to a more streamlined and effective service request process in the new ServiceNow environment.
 
-By distinguishing the sections this way, the "Summary" provides an overview of the project's purpose and the broad outcomes, while the "Situation" offers more detail on the starting point and specific challenges that needed to be addressed. This ensures that each part has its unique focus and avoids repetition.
-
 ### Project 2: Second Project Title
 Content for project 2...
 
