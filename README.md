@@ -1,4 +1,4 @@
-# jpbportfolio.github.io
+# JB Portfolio.github.io
 # IT Manager | Service Delivery Manager
 
 ### Work Experience
