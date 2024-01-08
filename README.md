@@ -23,13 +23,16 @@ Welcome to my GitHub portfolio! I've created this space to showcase the range of
 ### Project Presentation Approach & Confidentiality
  I have structured my project overviews using the Situation, Problem, Action, and Result (SPAR) framework, ensuring clarity and conciseness in presenting my work. Please note that any sensitive information has been appropriately redacted or omitted for confidentiality.
 
-### Work Experience
-- Something solid 1
+### Project List
+- ServiceNow Request Catalogue Optimisation Project
 - Something Solid 2
 - Something Solid 3
 
-### Projects
-Something Solid 4
+### ServiceNow Request Catalogue Optimisation Project
+
+### Situation
+The legacy ServiceNow platform, hosting our request catalogue, had become increasingly unwieldy due to over customisation and organic growth over the years, leading to a sprawling array of 800+ service request forms. The lack of effective governance had also resulted in cumbersome request management processes, significantly elongating the lead time for ordering catalogue items. With plans to eventually decommission the legacy system, the immediate objective was to baseline the existing setup and strategise for the efficient creation of new forms in the new ServiceNow system. As an initial step, the first series of sprints were dedicated to prioritising and addressing the top 100 forms. This targeted approach was crucial in streamlining operations and setting the stage for a more manageable and effective service request process.
+
 - Test text
 - - Test text
 
