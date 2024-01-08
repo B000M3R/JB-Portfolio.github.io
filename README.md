@@ -13,6 +13,7 @@ agreed business objectives. While innovation has been part of my role, my primar
 my technical knowledge and leadership skills to drive improvements and maintain a team environment that is adaptable and responsive to evolving business needs.
 
 ###LinkedIn Profile
+
 www.linkedin.com/in/bostockj
 
 ### Work Experience
