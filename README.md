@@ -15,7 +15,7 @@ my technical knowledge and leadership skills to drive improvements and maintain 
 [LinkedIn Profile](https://www.linkedin.com/in/bostockj)
 
 
-### About My Portfolio - A Journey of IT Service Excellence
+## About My Portfolio - A Journey of IT Service Excellence
 Welcome to my GitHub portfolio! I've created this space to showcase the range of projects and initiatives I've led or contributed to. This portfolio reflects my commitment to driving technological and service excellence, detailing real world problems, innovative solutions, and the impactful results achieved. It serves as a testament to my continual learning journey and my dedication to enhancing business operations through effective IT strategies. Whether you're a potential employer, a fellow IT professional, or an interested observer, I invite you to explore the work I've done and the value I've added to each project.
 
 
