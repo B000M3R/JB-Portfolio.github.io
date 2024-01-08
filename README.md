@@ -18,6 +18,11 @@ my technical knowledge and leadership skills to drive improvements and maintain 
 ### About My Portfolio: A Journey of IT Service Excellence
 Welcome to my GitHub portfolio! I've created this space to showcase the range of projects and initiatives I've led or contributed to. This portfolio reflects my commitment to driving technological and service excellence, detailing real world problems, innovative solutions, and the impactful results achieved. It serves as a testament to my continual learning journey and my dedication to enhancing business operations through effective IT strategies. Whether you're a potential employer, a fellow IT professional, or an interested observer, I invite you to explore the work I've done and the value I've added to each project.
 
+
+
+### Project Presentation Approach & Confidentiality
+ I have structured my project overviews using the Situation, Problem, Action, and Result (SPAR) framework, ensuring clarity and conciseness in presenting my work. Please note that any sensitive information has been appropriately redacted or omitted for confidentiality.
+
 ### Work Experience
 - Something solid 1
 - Something Solid 2
