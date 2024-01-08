@@ -24,20 +24,22 @@ Welcome to my GitHub portfolio! I've created this space to showcase the range of
  I have structured my project overviews using the Situation, Problem, Action, and Result (SPAR) framework, ensuring clarity and conciseness in presenting my work. Please note that any sensitive information has been appropriately redacted or omitted for confidentiality.
 
 ## Table of Contents
-- [Project 1: ServiceNow Catalogue Optimization](#project-1-servicenow-catalogue-optimization)
+- [Project 1: ServiceNow Catalogue Optimization](#project-1-service-request-catalogue-optimisation)
 - [Project 2: Second Project Title](#project-2-second-project-title)
 - [Project 3: Third Project Title](#project-3-third-project-title)
 - [Project 4: Fourth Project Title](#project-4-fourth-project-title)
 - [Project 5: Fifth Project Title](#project-5-fifth-project-title)
 
-### Project 1: ServiceNow Catalogue Optimization
+### Project 1: Service Request Catalogue Optimisation
 <h3 style="color:blue">Summary</h3>
-In the ServiceNow Catalogue Optimisation Project, our aim was to tackle the complexities and inefficiencies of our outdated service request catalogue system. The project revolved around streamlining, modernising and re-designing the forms for the new ServiceNow platform. The old forms had become problematic due to years of ad-hoc adjustments and lack of governance. Our objective was to improve the look and feel of the new request forms, enhance the request fulfillment process, reduce lead times, and lay a robust groundwork for the new ServiceNow system's success, ensuring a more agile and responsive service management environment.
+The Request Catalogue Optimisation Project aimed to address the inefficiencies and outdated mechanisms of our existing service request system within ServiceNow. Our mission was to revitalise the user experience by streamlining, modernising, and redesigning the forms within the new ServiceNow platform. By enhancing the look and feel of the request forms and improving the fulfillment process, we sought to reduce lead times and establish a strong foundation for the system's future. The project's success was measured by its contribution to a more agile and responsive service management environment, reflecting our commitment to continuous improvement and excellence in IT service delivery.
 
 ![Alt text for your image](Req_Cat_Delivery_Sheet.png)
 
 ### Situation
-The legacy ServiceNow platform, hosting our request catalogue, had become increasingly unwieldy due to over customisation and organic growth over the years, leading to a sprawling array of 800+ service request forms. The lack of effective governance had also resulted in a cumbersome request management processes, significantly elongating the lead times for ordering catalogue items. With plans to eventually decommission the legacy system, the immediate objective was to baseline the existing setup and forms and strategise for the efficient creation of new forms in the new ServiceNow system. As an initial step, the first series of sprints were dedicated to prioritising and addressing the top 100 forms. This targeted approach was crucial to meet a tight deadline and in streamlining operations and setting the stage for a more manageable and effective service request process.
+Our legacy ServiceNow platform, containing over 800 service request forms, had become bloated and inefficient due to over-customisation and lack of governance, leading to cumbersome request management processes and extended lead times. The need for a complete overhaul was evident as we prepared to transition away from the outdated ServiceNow system. The initial phase focused on baselining the existing setup and targeting the top 100 forms for immediate attention and redesign. This phase was essential in managing the scope effectively, meeting tight deadlines, and ensuring a smooth transition to a more streamlined and effective service request process in the new ServiceNow environment.
+
+By distinguishing the sections this way, the "Summary" provides an overview of the project's purpose and the broad outcomes, while the "Situation" offers more detail on the starting point and specific challenges that needed to be addressed. This ensures that each part has its unique focus and avoids repetition.
 
 ### Project 2: Second Project Title
 Content for project 2...
