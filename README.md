@@ -24,7 +24,7 @@ Welcome to my GitHub portfolio! I've created this space to showcase the range of
  I have structured my project overviews using the Situation, Problem, Action, and Result (SPAR) framework, ensuring clarity and conciseness in presenting my work. Please note that any sensitive information has been appropriately redacted or omitted for confidentiality.
 
 ## Table of Contents
-- [Project 1: ServiceNow Catalogue Optimization](#project-1-service-request-catalogue-optimisation)
+- [Project 1: Service Request Catalogue Optimisation](#project-1-service-request-catalogue-optimisation)
 - [Project 2: Second Project Title](#project-2-second-project-title)
 - [Project 3: Third Project Title](#project-3-third-project-title)
 - [Project 4: Fourth Project Title](#project-4-fourth-project-title)
@@ -38,6 +38,14 @@ The Request Catalogue Optimisation Project aimed to address the request form ine
 
 ### Situation
 Our legacy ServiceNow platform, containing over 800 service request forms, had become bloated and inefficient due to over-customisation and lack of governance, leading to cumbersome request management processes and extended lead times. The need for a complete overhaul was evident as we prepared to transition away from the outdated and old ServiceNow system. The initial phase focused on baselining the existing setup and targeting the top 100 forms for immediate attention and redesign. This phase was essential in managing the scope effectively, meeting tight deadlines, and ensuring a smooth transition to a more streamlined and effective service request process in the new ServiceNow environment.
+
+<h2 style="color:blue">Action</h2>
+1. Assessment and Prioritisation of existing forms. Conducted a thorough review of the existing 800+ service request forms. Identified and prioritised the top 100 forms for the initial phase of optimisation, based on usage frequency and business impact.
+2. Form Design and Development. Collaborated with form owners and key stakeholders to redesign the forms, focusing on user experience and operational efficiency. Utilised best practices in UI/UX to ensure the new forms were intuitive and user-friendly. Employed Agile methodology to allow for iterative design and development, ensuring continuous improvement and stakeholder feedback was incoprorated.
+3. Training and Implementation. Developed and delivered comprehensive training to end-users and IT staff, ensuring excellent understanding of the new forms and a smooth transition to the new system. Prepared the optimised forms in phases to manage change effectively.
+4. Quality Assurance and Feedback.  Implemented rigorous testing protocols to ensure functionality and performance of new forms. Established a feedback loop with users to identify any issues and make adjustments as needed, ensuring the forms met all user requirements and business needs.
+5. Documentation and Governance: Created detailed documentation for the new forms and the request management process, ensuring sustainability and ease of management. Established clear governance structures to prevent the issues of over-customisation and lack of control experienced with the legacy system.
+
 
 ### Project 2: Second Project Title
 Content for project 2...
