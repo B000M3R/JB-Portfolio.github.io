@@ -12,9 +12,7 @@ My approach is pragmatic and results-driven,focusing on enhancing service delive
 agreed business objectives. While innovation has been part of my role, my primary focus is on practical application and results. I leverage 
 my technical knowledge and leadership skills to drive improvements and maintain a team environment that is adaptable and responsive to evolving business needs.
 
-### LinkedIn Profile
-
-www.linkedin.com/in/bostockj
+[LinkedIn Profile](https://www.linkedin.com/in/bostockj)
 
 
 ### About My Portfolio: A Journey of IT Service Excellence
